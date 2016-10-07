@@ -1,0 +1,17 @@
+{
+  "name": "jsonresume-theme-donkeymedia",
+  "version": "0.1.1",
+  "description": "A theme for JSON Resume",
+  "author": "Thorsten Krug. Based on Work of Mattias Erming",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitaldonkey/jsonresume-theme-donkeymedia.git"
+  },
+  "scripts": {
+    "start": "resume serve"
+  },
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.4"
+  },
+  "license": "MIT"
+}
